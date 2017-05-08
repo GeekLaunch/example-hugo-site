@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://geeklaunch.github.io/example-hugo-site/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"

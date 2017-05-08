@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Example Hugo Website</title>
-    <link>https://example.org/</link>
+    <link>https://geeklaunch.github.io/example-hugo-site/</link>
     <description>Recent content on My Example Hugo Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 May 2017 19:15:51 -0500</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geeklaunch.github.io/example-hugo-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>first post</title>
-      <link>https://example.org/post/first-post/</link>
+      <link>https://geeklaunch.github.io/example-hugo-site/post/first-post/</link>
       <pubDate>Sun, 07 May 2017 19:15:51 -0500</pubDate>
       
-      <guid>https://example.org/post/first-post/</guid>
+      <guid>https://geeklaunch.github.io/example-hugo-site/post/first-post/</guid>
       <description>Hello! Welcome to my new blog! Please come back some other time when I&amp;rsquo;ve written something worth your time.
 Thanks! :)</description>
     </item>
